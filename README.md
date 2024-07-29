@@ -2,6 +2,10 @@
 
 <br>
 
+Stream 사용연습을 해보면서 배운 개념 기록
+
+<br>
+
 [문제출처] https://github.com/MangKyu/stream-quiz
 
 <br>
@@ -26,7 +30,7 @@ Stream 단점
 
 <br>
 
-Stream 사용연습을 해보면서 배운 개념 기록
+
 
 <br>
 
