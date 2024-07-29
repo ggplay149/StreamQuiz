@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ggplay149.stream.Quiz6.Quiz6Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-07-29T06:28:34" hostname="DESKTOP-DCE9IIU" time="0.058">
+  <properties/>
+  <testcase name="quiz1()" classname="com.ggplay149.stream.Quiz6.Quiz6Test" time="0.054"/>
+  <testcase name="quiz2()" classname="com.ggplay149.stream.Quiz6.Quiz6Test" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
